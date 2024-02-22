@@ -19,7 +19,7 @@ body{
     align-items: center;
     padding: 20px;
     border-radius: 12px;
-    width: 40vh;
+    width: 50vh;
     height: 50vh;
 
 }
@@ -30,19 +30,16 @@ body{
 
 }
 
-.btn
-{   padding: 10px;
-    background-color: yellowgreen;
-    border-radius: 8px;
-    margin: 6px;
-}
+
 
 #oddeven 
 {
-    margin-left: 35vh;
     border: 1px solid black;
     padding:2px;
     font-size: 1.2rem;
-    border-radius: 6px;
-    background-color: chocolate;
+    border-radius: 3px;
+    background-color: rgb(61, 211, 231);
+    width: 80px;
+    text-align: center;
+
 }
